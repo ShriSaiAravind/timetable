@@ -107,4 +107,4 @@ Execute the program
 </html>
 
 # OUPUT
-![Alt text](Timetable.png)
+![Timetable](https://github.com/ShriSaiAravind/timetable/assets/148180918/fabbaa53-49fd-46af-8af4-d9fb93cb5c37)
