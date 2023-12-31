@@ -14,23 +14,23 @@ Add your timetable
 Execute the program
 
 # CODE
-<html>
-    <head>
-        <title>Timetable Ex03</title>
-        <h1 align = "center">My Timetable</h1>
-    </head>
-    <body>
-        <img src = "logo.png" height ="100" width = "1000" align = "center" border = "5">
-    </body>
-    <table border = "3" width ="1010" bgcolor = "cyan" cellspacing = "3" cellpadding = "10">
-        <caption align="top"><b>SLOT TIME TABLE - SHRI SAI ARAVIND.R</b></caption>
-        <tr>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Day/time</b></td>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Monday</b></td>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Tuesday</b></td>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Wednesday</b></td>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Thursday</b></td>
-            <td width = "15%" align="center" bgcolor="yellow"><b>Friday</b></td>
+    <html>
+        <head>
+            <title>Timetable Ex03</title>
+            <h1 align = "center">My Timetable</h1>
+        </head>
+        <body>
+            <img src = "logo.png" height ="100" width = "1000" align = "center" border = "5">
+        </body>
+        <table border = "3" width ="1010" bgcolor = "cyan" cellspacing = "3" cellpadding = "10">
+            <caption align="top"><b>SLOT TIME TABLE - SHRI SAI ARAVIND.R</b></caption>
+            <tr>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Day/time</b></td>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Monday</b></td>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Tuesday</b></td>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Wednesday</b></td>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Thursday</b></td>
+                <td width = "15%" align="center" bgcolor="yellow"><b>Friday</b></td>
             
         </tr>
         <tr>
@@ -104,7 +104,7 @@ Execute the program
         </tr>
         </tr>
     </table>
-</html>
+    </html>
 
 # OUPUT
 ![Timetable](https://github.com/ShriSaiAravind/timetable/assets/148180918/fabbaa53-49fd-46af-8af4-d9fb93cb5c37)
